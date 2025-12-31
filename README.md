@@ -1,40 +1,52 @@
-# 👋 Hi, I'm Mohadese
+# Hi, I'm Mohadese 👋
 
-🎓 Networking Student | CCNA & Network+ Certified  
-🌍 Aspiring Network Engineer | Interested in International Opportunities
-
----
-
-## 🧠 About Me
-I am a motivated networking student with hands-on experience in Cisco networking fundamentals.  
-My focus is on building practical, well-documented network labs that demonstrate real-world skills beyond certifications.
-
-I am currently preparing my profile for:
-- 📌 Academic opportunities (Scholarships / Fully Funded Programs)
-- 📌 Entry-level Network / IT roles
-- 📌 International migration pathways
+🎓 Networking enthusiast with hands-on experience in network design, configuration, and troubleshooting.  
+💡 Focused on building practical skills aligned with international standards.
 
 ---
 
-## 🧾 Certifications
-- ✅ CCNA – Score: 80 (Iran)
-- ✅ CompTIA Network+ – Score: 80 (Iran)
+## 🔧 Skills & Technologies
+- TCP/IP, OSI Model
+- VLAN, Trunking, Inter-VLAN Routing
+- Switching & Routing fundamentals
+- Network troubleshooting
+- Cisco Packet Tracer
+- Basic network documentation
 
 ---
 
-## 🛠️ Technical Skills
-- VLAN & Inter-VLAN Routing (Router-on-a-Stick)
-- Trunking (802.1Q)
-- IP Addressing & Subnetting
-- Cisco CLI (Switch & Router)
-- Network Troubleshooting
-- Packet Tracer Labs
-- Basic Network Documentation
+## 📜 Certifications
+- Cisco Certified Network Associate (CCNA)
+- CompTIA Network+
 
 ---
 
-## 📂 Featured Projects
-### 🔹 Network Portfolio
-📁 Repository: [network-portfolio](https://github.com/mohadese-it/network-portfolio)
+## 🧪 Hands-on Projects
+📌 Network Portfolio  
+Practical networking labs and scenarios based on CCNA and Network+ concepts.
 
-Hands-on networking labs based on CCNA an
+🔗 Repository:  
+👉 https://github.com/mohadese-it/network-portfolio
+
+Examples of implemented labs:
+- VLAN configuration and trunking
+- Inter-VLAN routing
+- Basic switch and router configuration
+- Connectivity testing and troubleshooting
+
+Each project includes:
+- Network topology
+- Configuration steps
+- Verification commands
+- Screenshots and documentation
+
+---
+
+## 🎯 Current Goals
+- Strengthen practical networking skills
+- Build a solid technical portfolio
+- Prepare for academic and international opportunities
+
+---
+
+📫 *More projects and documentation will be added continuously.*
