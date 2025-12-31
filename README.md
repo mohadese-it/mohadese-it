@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohadese
 
-<!--
-**mohadese-it/mohadese-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Networking Student | CCNA & Network+ Certified  
+🌍 Aspiring Network Engineer | Interested in International Opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a motivated networking student with hands-on experience in Cisco networking fundamentals.  
+My focus is on building practical, well-documented network labs that demonstrate real-world skills beyond certifications.
+
+I am currently preparing my profile for:
+- 📌 Academic opportunities (Scholarships / Fully Funded Programs)
+- 📌 Entry-level Network / IT roles
+- 📌 International migration pathways
+
+---
+
+## 🧾 Certifications
+- ✅ CCNA – Score: 80 (Iran)
+- ✅ CompTIA Network+ – Score: 80 (Iran)
+
+---
+
+## 🛠️ Technical Skills
+- VLAN & Inter-VLAN Routing (Router-on-a-Stick)
+- Trunking (802.1Q)
+- IP Addressing & Subnetting
+- Cisco CLI (Switch & Router)
+- Network Troubleshooting
+- Packet Tracer Labs
+- Basic Network Documentation
+
+---
+
+## 📂 Featured Projects
+### 🔹 Network Portfolio
+📁 Repository: [network-portfolio](https://github.com/mohadese-it/network-portfolio)
+
+Hands-on networking labs based on CCNA an
